@@ -1,0 +1,69 @@
+{
+  "formations": [
+    {
+      "id": 1,
+      "name": "Genie civilee",
+      "username": "2020-11-28"
+    },
+    {
+      "id": 2,
+      "name": "Informatique et Gestion",
+      "username": "2020-11-28"
+    }
+  ],
+  "ue": [
+    {
+      "id": 1,
+      "formation": "Genie civil",
+      "ue": "U-E-1",
+      "anneeAcademique": "2020-11-28"
+    },
+    {
+      "id": 2,
+      "formation": "Informatique et Gestion",
+      "ue": "U-E-1",
+      "anneeAcademique": "2020-11-28"
+    },
+    {
+      "id": 3,
+      "formation": "Genie civil",
+      "ue": "U-E-1",
+      "anneeAcademique": "2020-11-23"
+    }
+  ],
+  "module": [
+    {
+      "id": 1,
+      "nameModule": "module 1",
+      "nameUe": "U-E-1",
+      "nameFormation": "Genie civil",
+      "niveau": "licence 1",
+      "anneeAcademique": "2020-11-28"
+    }
+  ],
+  "classe": [
+    {
+      "id": 1,
+      "nameFormation": "genie civil",
+      "niveau": "licence 1",
+      "nameClass": "L3GI",
+      "etudiant": "",
+      "listStudent": ""
+    },
+    [
+      {
+        "etudiant": ""
+      }
+    ],
+    [
+      {
+        "etudiant": ""
+      }
+    ],
+    [
+      {
+        "etudiant": ""
+      }
+    ]
+  ]
+}
